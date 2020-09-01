@@ -7,6 +7,3 @@ Spring + myBatis 를 이용한 회원제 계층형 게시판
  - 로그인
  - 게시판 CRUD
  - 게시글 검색 기능
- 
-2. 추가 예정
- - Spring Security
